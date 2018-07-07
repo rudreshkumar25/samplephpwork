@@ -2,10 +2,10 @@
 <html>
 <body>
 
-<h1>Hello rudresh kumar Welcom to world of AWS</h1>
+<h1>Hello rudresh kumar Welcome to World of AWS</h1>
 
 <?php
-echo "version 1.0";
+echo "Version 2.0";
 ?>
 
 </body>
