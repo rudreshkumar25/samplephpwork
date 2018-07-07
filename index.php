@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>DevOps first project</h1>
+<h1>Hello rudresh kumar Welcom to world of AWS</h1>
 
 <?php
 echo "version 1.0";
